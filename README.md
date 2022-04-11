@@ -15,6 +15,7 @@ server:
 
 • logs client messages to syslog.
 
+
 clients:
 
 • receive messages from the server;
@@ -50,5 +51,6 @@ Commands
 ========
 
 runserver
+
 runclient
 
